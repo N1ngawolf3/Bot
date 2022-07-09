@@ -10,4 +10,4 @@ After few days of research and running this bot on my own pc I decided to
 deploy it on heroku. Because it is free and allows me not to "kill" my pc. 
 This repo is linked to heroku.
 
-It is my first useful and rather big project.
+It is my first useful project with few hundred strings of code.
